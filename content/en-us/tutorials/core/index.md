@@ -1,5 +1,5 @@
 ---
-title: Core Curriculum
+title: Core Curriculu9
 description: //
 next: /tutorials/core/building/create-a-project
 hideInPageNavigation: true
